@@ -1,0 +1,26 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100uF,C_Elec_6.3x5.4,53.8,-20.2,90.0,top
+C2,100nF,C_0603_1608Metric,25.6,-16.6,-90.0,top
+C21,100uF,C_Elec_6.3x5.4,67.8,-20.2,90.0,top
+C23,100uF,C_Elec_6.3x5.4,30.0,-16.6,90.0,top
+C29,100nF,C_0603_1608Metric,72.2,-20.0,-90.0,top
+C3,100uF,C_Elec_6.3x5.4,9.2,-19.8,90.0,top
+C30,100nF,C_0603_1608Metric,58.2,-20.0,-90.0,top
+C4,100nF,C_0603_1608Metric,4.8,-19.6,-90.0,top
+C5,12pF,C_0603_1608Metric,30.2,-5.4,90.0,top
+C6,12pF,C_0603_1608Metric,33.2,-2.8,0.0,top
+C7,10uF,C_0603_1608Metric,45.775,-5.4,180.0,top
+C8,10uF,C_0603_1608Metric,41.8,-3.6,180.0,top
+C9,10uF,C_0603_1608Metric,41.8,-5.4,180.0,top
+D1,LED,LED_0603_1608Metric,80.4,-26.6,180.0,top
+J8,USB_A,USB_A_Kycon_KUSBX-AS1N-B_Horizontal,33.5,-25.349,0.0,top
+J9,USB_A,USB_A_Kycon_KUSBX-AS1N-B_Horizontal,10.0,-31.349,0.0,top
+R1,56k,R_0603_1608Metric,72.375,-31.0,0.0,top
+R13,2k,R_0603_1608Metric,76.82,-26.6,0.0,top
+R2,56k,R_0603_1608Metric,72.375,-29.31,0.0,top
+R20,5.1k,R_0603_1608Metric,83.6,-34.0,180.0,top
+R21,5.1k,R_0603_1608Metric,83.6,-35.8,180.0,top
+R3,56k,R_0603_1608Metric,43.4,-29.4,180.0,top
+R4,56k,R_0603_1608Metric,43.4,-31.0,180.0,top
+U3,SL2.1S,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,43.8,-9.65,90.0,top
+Y1,12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,33.3,-5.45,0.0,top
